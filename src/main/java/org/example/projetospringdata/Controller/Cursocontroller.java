@@ -1,5 +1,5 @@
 package org.example.projetospringdata.Controller;
 
-public class Cursocontroller {
+public class CursoController {
     
 }
